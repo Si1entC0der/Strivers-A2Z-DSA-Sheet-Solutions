@@ -1,10 +1,10 @@
-## 📋 Problem Solutions
+## Lec 1 - Learning
 
-| # | Problem Name | Platform | Solution File |
-|---|--------------|----------|---------------|
-| 1 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | LeetCode | [provinces.cpp](provinces.cpp) |
-| 2 | Graph Representation (Adjacency List) | - | [graph_representation.cpp](graph_representation.cpp) |
-| 3 | Graph Representation (Adjacency Matrix) | - | [GraphRep.java](GraphRep.java) |
-| 4 | Connected Components Analysis | - | [connected_components.md](connected_components.md) |
-| 5 | [BFS Traversal](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) | GeeksforGeeks | [bfs.cpp](bfs.cpp) |
-| 6 | [DFS Traversal](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) | GeeksforGeeks | [dfs.cpp](dfs.cpp) |
+| Topic | Solution File |
+|-------|---------------|
+| [Graph and Types](graph_types.md) | [graph_types.md](graph_types.md) |
+| [Graph Representation (C++)](graph_representation.cpp) | [graph_representation.cpp](graph_representation.cpp) |
+| [Graph Representation (Java)](GraphRep.java) | [GraphRep.java](GraphRep.java) |
+| [Connected Components](connected_components.md) | [connected_components.md](connected_components.md) |
+| [BFS Implementation](bfs_traversal.cpp) | [bfs_traversal.cpp](bfs_traversal.cpp) |
+| [DFS Implementation](dfs_traversal.cpp) | [dfs_traversal.cpp](dfs_traversal.cpp) |
